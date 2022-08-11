@@ -1,0 +1,15 @@
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\bin\Debug\net6.0\SintaxSugars.exe
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\bin\Debug\net6.0\SintaxSugars.deps.json
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\bin\Debug\net6.0\SintaxSugars.runtimeconfig.json
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\bin\Debug\net6.0\SintaxSugars.dll
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\bin\Debug\net6.0\SintaxSugars.pdb
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.csproj.AssemblyReference.cache
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.AssemblyInfoInputs.cache
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.AssemblyInfo.cs
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.csproj.CoreCompileInputs.cache
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.dll
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\refint\SintaxSugars.dll
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.pdb
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\SintaxSugars.genruntimeconfig.cache
+C:\Users\ezara\Desktop\repos\SintaxSugars\SintaxSugars\obj\Debug\net6.0\ref\SintaxSugars.dll
